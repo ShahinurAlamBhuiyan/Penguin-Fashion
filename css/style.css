@@ -63,3 +63,17 @@ header{
 footer{
     text-align: center;
 }
+#navbarNav{
+    color: #fff;
+    font-weight: bold;
+    padding: .2rem 2rem;
+}
+
+
+@media only screen and (max-width:767px) {
+    #navbarNav{
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    
+    
+}
