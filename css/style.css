@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.icon-img{
+    height:  100px;
+}
+.panda-link{
+    padding: 0.2rem 2rem;
+}
+.header-h1{
+    font-size: 60px;
+}
+
+.h1-moon{
+    color: rgb(110, 221, 110);
+}
+header{
+    background-color: rgba(236, 208, 204, 0.5);
+}
+.buy-now-1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(113, 153, 113),rgb(110, 221, 110));
+    color: white;
+    padding: 12px 15px;
+    border-radius: 5px;    
+}
+.buy-now-2{
+    text-decoration: none;
+    color: white;
+    border-radius: 5px; 
+    background-image: linear-gradient(45deg,rgb(121, 89, 121),#460b46);
+    padding: 13px 11px;
+    margin-bottom: 30px;
+    padding-right: 20px;
+}
+.img-1st-section img{
+    height: 100px;
+}
+.last-img img{
+    width: 100%;
+    padding-left: 35px;
+}
+.backpack img{
+    background-color: rgba(233, 223, 223, 0.5);
+    width: 90%;
+    margin: 20px 20px;
+    border-radius: 10px;
+}
+.dollar{
+    color: rgb(110, 221, 110);
+    padding-right: 100px;
+}
+#subscribe{
+    height: 350px;
+    background-color:#fceae8 ;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
